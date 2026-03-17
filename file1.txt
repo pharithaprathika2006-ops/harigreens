@@ -1,0 +1,13 @@
+Create a Repository
+
+1. Log in to GitHub and click on the "+" icon in the top right corner.
+2. Select "New repository".
+3. Fill in the repository name, description, and choose the visibility (public or private).
+4. Click "Create repository".
+
+Create a Branch
+
+1. Navigate to your repository on GitHub.
+2. Click on the "main" branch button (usually at the top left).
+3. Type the new branch name in the text field.
+4. Click "Create branch" to finalize the process.
