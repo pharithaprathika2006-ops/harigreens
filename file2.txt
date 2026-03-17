@@ -1,0 +1,22 @@
+Make Changes and Commit
+
+1. Make changes to your files in the new branch.
+2. Click on the "Add file" button to add new files or upload existing ones.
+3. Commit your changes with a meaningful commit message.
+
+Merge Branches
+
+1. Navigate to your repository on GitHub.
+2. Click on the "Pull requests" tab.
+3. Click "New pull request".
+4. Select the branch you want to merge into the main branch.
+5. Review your changes and click "Create pull request".
+6. Click "Merge pull request" to complete the merge.
+
+Revoke Changes (Revert)
+
+1. Navigate to your repository on GitHub.
+2. Click on the "Commits" tab.
+3. Find the commit you want to revert and click on the "..." button.
+4. Click "Revert".
+5. Review your changes and click "Revert commit".
