@@ -1,0 +1,17 @@
+Basic Git Commands
+
+- git init: Initialize a new Git repository.
+- git add <file>: Stage changes for commit.
+- git commit -m "<message>": Commit changes with a meaningful message.
+- git branch <branch-name>: Create a new branch.
+- git checkout <branch-name>: Switch to a different branch.
+- git merge <branch-name>: Merge changes from another branch.
+- git revert <commit-hash>: Revert changes from a specific commit.
+
+Basic GitHub Workflow
+
+1. Create a repository on GitHub.
+2. Clone the repository to your local machine using git clone.
+3. Make changes and commit them using git add and git commit.
+4. Push changes to GitHub using git push.
+5. Create a pull request to merge changes into the main branch.
